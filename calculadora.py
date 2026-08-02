@@ -1,4 +1,4 @@
-print("===== CALCULADORA =====")
+print("===== CALCULADORA DE RAMÓN =====")
 print("1. Sumar")
 print("2. Restar")
 print("3. Multiplicar")
