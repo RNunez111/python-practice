@@ -5,7 +5,7 @@ print("3. Multiplicar")
 print("4. Dividir")
 
 opcion = input("Elige una opción (1-4): ")
-s
+
 numero1 = float(input("Primer número: "))
 numero2 = float(input("Segundo número: "))
 
